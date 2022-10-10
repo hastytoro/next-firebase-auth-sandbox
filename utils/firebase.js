@@ -4,6 +4,7 @@ import { getAuth } from "firebase/auth";
 
 // Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
+// https://cloud.google.com/identity-platform/docs/sign-in-user-email
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
